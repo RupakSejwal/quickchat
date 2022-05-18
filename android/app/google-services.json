@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654086094659",
+    "project_id": "chat-783fb",
+    "storage_bucket": "chat-783fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654086094659:android:4aa96333753a8dac5b39f6",
+        "android_client_info": {
+          "package_name": "com.rupak.rchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654086094659-mdv6hld908cc77mvr18i229hpn963v5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAls96xi5fCtYMmA8P8KVi8ZMRjSZlCQUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654086094659-mdv6hld908cc77mvr18i229hpn963v5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
